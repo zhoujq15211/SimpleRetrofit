@@ -12,9 +12,9 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * @Author: we
- * @Date: 2018/5/24
- * @Desc: 分页加载数据格式化回调
+ * @des:分页加载数据格式化回调
+ * @Created  by:zhoujq on  2019/3/21 14:38
+ * @Modifyed by:zhoujq on  2019/3/21 14:38
  */
 
 public abstract class HttpPageDataCallback<T> implements Callback<HttpResponse<T>> {

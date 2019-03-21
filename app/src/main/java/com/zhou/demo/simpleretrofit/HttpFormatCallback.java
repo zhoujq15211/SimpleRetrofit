@@ -9,9 +9,10 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by zhoujq on 2017/7/27.
+ * @des:
+ * @Created  by:zhoujq on  2019/3/21 14:38
+ * @Modifyed by:zhoujq on  2019/3/21 14:38
  */
-
 public abstract class HttpFormatCallback<T> implements Callback<HttpResponse<T>> {
 
     /**

@@ -22,7 +22,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * @Copyright(java) 1998-2018 深圳市拓邦软件技术有限公司
  * @des:二次封装Retrofit，使用okhttp、gson
  * @Created by:zhoujq on  2019/3/20 17:11
  * @Modifyed by:zhoujq on  2019/3/20 17:11

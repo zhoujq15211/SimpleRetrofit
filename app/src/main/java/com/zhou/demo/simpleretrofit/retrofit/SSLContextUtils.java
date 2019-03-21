@@ -12,7 +12,9 @@ import javax.net.ssl.X509TrustManager;
 import okhttp3.OkHttpClient;
 
 /**
- * Created by zhoujq on 2017/7/26.
+ * @des:
+ * @Created  by:zhoujq on  2019/3/21 14:38
+ * @Modifyed by:zhoujq on  2019/3/21 14:38
  */
 
 public class SSLContextUtils {
